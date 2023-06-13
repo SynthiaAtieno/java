@@ -1,7 +1,7 @@
 class HelloWorld {
     public static void main(String[] args) {
         //System.out.println("Hello, World!");
-        fizzBuzz(30);
+        fizzBuzz(3);
     }
        public static void fizzBuzz(int n) {
     // Write your code here
